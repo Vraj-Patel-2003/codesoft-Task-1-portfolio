@@ -1,0 +1,15 @@
+.f-c{
+    color:white;
+}
+
+.f-f{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: lowercase;
+}
+
+.logo{
+    border-radius: 125%;
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+}
